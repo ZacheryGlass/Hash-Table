@@ -1,1 +1,1 @@
-My personal implementation of a Hash-Table data structure.
+My implementation of a Hash-Table data structure wrapped in a class.
