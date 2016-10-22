@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474908107 source:c:\users\glass_000\google drive\documents\coding\hash table\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
